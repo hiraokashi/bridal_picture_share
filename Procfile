@@ -1,0 +1,1 @@
+web: $(basename `pwd`)
